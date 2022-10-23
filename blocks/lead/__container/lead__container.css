@@ -5,5 +5,4 @@
     grid-template-rows: repeat(2, min-content);
     grid-template-columns: 1fr;
     justify-items: center;
-    overflow: hidden;
 }
