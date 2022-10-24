@@ -19,7 +19,7 @@
 
 @media screen and (max-width: 480px) {
     .content__cover {
-        margin-top: 64px;
-        margin-bottom: 66px;
+        margin-top: 66px;
+        margin-bottom: 64px;
     }
 }
